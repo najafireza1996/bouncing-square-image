@@ -1,5 +1,5 @@
 
-import 'package:fidibo_test/speed_limit.dart';
+import 'package:fidibo_test/swipe_bounce.dart';
 import 'package:flutter/material.dart';
 
 void main() {
